@@ -17,14 +17,7 @@
         "previewImg":"",
         "tags": ["saas", "dashboard", "light theme"]
     },
-    {
-        "name": "AI Sales app",
-        "category": "apps",
-        "previewUrl": "https://aisales-app.netlify.app/",
-        "githubUrl": "https://github.com/ashiii1/All-Templates/tree/master/src/apps/AISales",
-        "previewImg":"",
-        "tags": ["apps", "dashboard", "light theme", "animated"]
-    },
+   
     {
         "name": "Bistro restaurant",
         "category": "restaurant",
@@ -41,22 +34,7 @@
         "previewImg":"",
         "tags": ["ngo", "non-profit", "charity", "donation"]
     },
-    {
-        "name": "Law Fire",
-        "category": "law",
-        "previewUrl": "https://law-fire.netlify.app/",
-        "githubUrl": "https://github.com/ashiii1/All-Templates/tree/master/src/law/lawfire",
-        "previewImg":"",
-        "tags": ["law", "attorney", "lawyer"]
-    },
-    {
-        "name": "Law group",
-        "category": "law",
-        "previewUrl": "https://lawgroup.netlify.app/",
-        "githubUrl": "https://github.com/ashiii1/All-Templates/tree/master/src/law/lawgroup",
-        "previewImg":"",
-        "tags": ["law", "attorney", "lawyer"]
-    },
+    
     {
         "name": "Brick property",
         "category": "real-estate",
@@ -97,24 +75,9 @@
         "previewImg":"",
         "tags": ["car", "others", "car wash", "wash"]
     },
-    {
-        "name": "Navigator",
-        "category": "apps",
-        "previewUrl": "https://navigator-app.netlify.app/",
-        "githubUrl": "https://github.com/ashiii1/All-Templates/tree/master/src/apps/navigator",
-        "previewImg":"",
-        "tags": ["apps", "landing pages", "dark", "responsive", "navigation", "animated"]
-    },
-
-    {
-        "name": "Traveler",
-        "category": "apps",
-        "previewUrl": "https://traveler-dyno.netlify.app/",
-        "githubUrl": "https://github.com/ashiii1/All-Templates/tree/master/src/apps/traveler",
-        "previewImg":"",
-        "tags": ["apps", "landing pages", "light", "responsive", "travel", "animated"]
-    },
     
+
+  
     {
         "name": "SaaSy Dark",
         "category": "saas",
@@ -133,14 +96,7 @@
         "tags": ["saas", "landing pages", "dark", "responsive", "dark theme", "animated"]
     },
   
-    {
-        "name": "Chat origin",
-        "category": "apps",
-        "previewUrl": "https://chatorigin.netlify.app/",
-        "githubUrl": "https://github.com/ashiii1/All-Templates/tree/master/src/apps/chatorigin",
-        "previewImg": "", 
-        "tags": ["apps", "landing pages", "chat", "apple", "google"]
-    },
+  
 
     {
         "name": "Jamie developer",
